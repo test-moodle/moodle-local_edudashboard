@@ -17,9 +17,9 @@
 /**
  * Task schedule configuration for the local_edudashboard plugin.
  *
- * @package   local_edudashboard
- * @copyright Year, You Name <your@email.address>
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package      local_edudashboard
+ * @copyright   2025 edudigital <geral@edudigital-learn.com>
+ * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 $tasks = [

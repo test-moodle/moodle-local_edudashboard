@@ -18,7 +18,7 @@
  *
  * @package     local_edudashboard
  * @category    string
- * @copyright   2022 geral <geral@edudigital.pt>
+ * @copyright   2025 geral <geral@edudigital.pt>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

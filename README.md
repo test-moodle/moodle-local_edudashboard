@@ -47,7 +47,7 @@ EDUdashboard is a powerful plugin for Moodle that provides detailed graphical re
 ## Support & Contributions
 
 For issues, feature requests, or contributions, please visit our GitHub repository:
-[GitHub Repository]()
+[GitHub Repository](https://github.com/edudigital/moodle-local_edudashboard)
 
 ## License
 

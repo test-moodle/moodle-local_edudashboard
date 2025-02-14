@@ -13,12 +13,12 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
 /**
- * Plugin administration pages are defined here.
+ * 
  *
- * @package     local_edudashboard
- * @category    admin
- * @copyright   2019 wisdmlabs <support@wisdmlabs.com>
+ * @package      local_edudashboard
+ * @copyright   2025 edudigital <geral@edudigital-learn.com>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

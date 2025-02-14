@@ -18,8 +18,8 @@ defined('MOODLE_INTERNAL') || die();
 /**
  * Plugin version and other meta-data are defined here.
  *
- * @package     local_edudasboard
- * @copyright   2022 wisdmlabs <geral@edudigital.pt>
+ * @package     local_edudashboard
+ * @copyright   2025 edudigital <geral@edudigital-learn.com>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 /**

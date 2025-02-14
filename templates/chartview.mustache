@@ -1,0 +1,10 @@
+ <figure style="{{style}}" class="highcharts-figure {{^nodata}} edudashboard-dataonchart {{/nodata}}" >
+	 {{^nodata}}
+	  	<div id='{{containerid}}'></div>
+	 {{/nodata}}
+
+	{{#nodata}}
+	  	<p class="edudashboard-nochartdata-msg">{{message}}</p>
+	{{/nodata}}
+ 	
+</figure>
